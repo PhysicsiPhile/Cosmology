@@ -51,6 +51,7 @@ The notebooks are written in **Python 3** and make use of common scientific libr
 * `scipy`
 * `matplotlib`
 * `emcee` (for MCMC)
+* `camb`
 
 You can install dependencies with:
 
@@ -65,8 +66,8 @@ pip install -r requirements.txt
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/PhysicsiPhile/Cosmology.git
+   cd Cosmology
    ```
 2. Launch Jupyter:
 
