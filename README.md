@@ -50,8 +50,11 @@ The notebooks are written in **Python 3** and make use of common scientific libr
 * `numpy`
 * `scipy`
 * `matplotlib`
+* `pandas`
 * `emcee` (for MCMC)
 * `camb`
+* `getdist`
+* `pyactlike`
 
 You can install dependencies with:
 
