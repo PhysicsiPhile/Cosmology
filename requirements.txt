@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pandas
+emcee
+corner
+camb
+getdist
+pyactlike
