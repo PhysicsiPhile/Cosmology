@@ -52,6 +52,7 @@ The notebooks are written in **Python 3** and make use of common scientific libr
 * `matplotlib`
 * `pandas`
 * `emcee` (for MCMC)
+* `corner`
 * `camb`
 * `getdist`
 * `pyactlike`
